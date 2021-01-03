@@ -1,4 +1,3 @@
-# 2021CodeContribution
 
 USAGE: Helps to merge the multiple pdf files in each subdirectory to single 
 
